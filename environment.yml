@@ -1,0 +1,6 @@
+name: udacity
+dependencies:
+        - numpy
+        - pandas
+        - scikit-learn
+        - matplotlib
