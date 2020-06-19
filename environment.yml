@@ -4,3 +4,4 @@ dependencies:
         - pandas
         - scikit-learn
         - matplotlib
+        - jupyterlab
