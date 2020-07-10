@@ -5,7 +5,7 @@ View the full report for this project (code included) [here](https://alexgeorgou
 
 This project is part of the Introduction to Machine Learning Nanodegree on Udacity.
 
-# Installation & Usage
+## Installation & Usage
 Clone this repo and open `finding_donors.ipynb` (you'll need to have **Jupyter Notebook** or **Jupyter Lab** [installed](https://jupyter.org/install.html)):
 
 ```
@@ -20,5 +20,5 @@ If you use [conda](https://docs.conda.io/en/latest/), you can set up a new envir
 $ conda env create -f environment.yml
 ```
 
-# License
+## License
 This project is made availabe under the [MIT License](https://choosealicense.com/licenses/mit/).
