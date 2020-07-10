@@ -1,10 +1,12 @@
 # CharityML
-This project was taken on as part of the Introduction to Machine Learning Nanodegree on Udacity.
-
 The aim of the project is to apply Supervised Learning methods to real census data to predict the salary of potential donors for a ficticious charity organisation called CharityML.
 
+View the full report for this project (code included) [here](https://alexgeorgousis.github.io/charity-ml/docs/report.html).
+
+This project is part of the Introduction to Machine Learning Nanodegree on Udacity.
+
 # Installation & Usage
-To see the full code and report for this project, simply open `report.html`. To view and edit the code for this project, clone this repo and open `finding_donors.ipynb` (you'll need to have **Jupyter Notebook** or **Jupyter Lab** [installed](https://jupyter.org/install.html)):
+Clone this repo and open `finding_donors.ipynb` (you'll need to have **Jupyter Notebook** or **Jupyter Lab** [installed](https://jupyter.org/install.html)):
 
 ```
 $ git clone https://github.com/alexgeorgousis/charity-ml.git
