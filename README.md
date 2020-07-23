@@ -1,4 +1,4 @@
-# CharityML
+# Overview
 The aim of the project is to apply Supervised Learning methods to real census data to predict the salary of potential donors for a ficticious charity organisation called CharityML.
 
 View the full report for this project (code included) [here](https://alexgeorgousis.github.io/charity-ml/index.html).
